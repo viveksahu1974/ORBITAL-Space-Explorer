@@ -11,6 +11,8 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-Interactive-F7DF1E?logo=javascript&logoColor=black)](script.js)
 [![No dependencies](https://img.shields.io/badge/Dependencies-None-29a87b)](#-tech-stack)
 
+**[▶ Live ORBITAL demo — Solar System, Milky Way & Black Hole](https://viveksahu1974.github.io/portfolio/orbital/)** · Hosted on the [Vivek Sahu portfolio](https://viveksahu1974.github.io/portfolio/#projects) via GitHub Pages. This link runs the actual HTML/CSS/JavaScript space explorer without installing anything.
+
 **[🚀 Launch on GitHub Pages (after activation)](https://viveksahu1974.github.io/ORBITAL-Space-Explorer/)** · **[💻 View source](https://github.com/viveksahu1974/ORBITAL-Space-Explorer)**
 
 </div>
